@@ -6,4 +6,4 @@ Version 1:
 - Multitenancy by schema separation
   
 Version 2:  
-- Multitenancy by discriminator (coming soon)  
+- Multitenancy by discriminator
